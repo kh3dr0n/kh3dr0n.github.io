@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://kh3dr0n.github.io/sitemap.xml 
