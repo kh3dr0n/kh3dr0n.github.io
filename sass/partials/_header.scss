@@ -31,7 +31,7 @@
 			border-radius: 300px;
 			width: 120px;
 			height: auto;
-			border : 2px dotted #DEDCB8;
+			border : 3px solid $base3;
 			@media only screen and (max-width: 850px) {
 				width: 80px;
 			}
